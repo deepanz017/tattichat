@@ -16,7 +16,8 @@ module.exports = {
         name: 'STRING',
         email: 'STRING',
         firstname: 'STRING',
-        lastname: 'STRING'
+        lastname: 'STRING',
+        gender: 'STRING'
     }
 
 };
